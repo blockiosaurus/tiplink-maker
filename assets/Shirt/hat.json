@@ -1,0 +1,25 @@
+{
+    "name": "Bread Heads Hat",
+    "description": "The Hat from the Bread Heads Spring '23 Clothing Line",
+    "image": "https://shdw-drive.genesysgo.net/HZZKTHfA3vgDNBpfdkvDRBBLxRHrhqcS2ApVE3Pb4NY/Hat.png",
+    "external_url": "https://www.breadheads.io/",
+    "attributes": [
+      {
+        "trait_type": "Article",
+        "value": "Hat"
+      },
+      {
+        "trait_type": "Line",
+        "value": "Spring '23"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://shdw-drive.genesysgo.net/HZZKTHfA3vgDNBpfdkvDRBBLxRHrhqcS2ApVE3Pb4NY/Hat.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }

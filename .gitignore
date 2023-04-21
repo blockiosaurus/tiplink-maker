@@ -63,3 +63,5 @@ typings/
 
 # next.js build output
 .next
+editions.json
+tiplinks.json
